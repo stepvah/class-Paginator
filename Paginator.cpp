@@ -1,4 +1,6 @@
 // Here is function main starts
+#include "profile.h"
+
 #include <iostream>
 #include <algorithm>
 #include <iterator>

@@ -143,6 +143,7 @@
     <ClCompile Include="Paginator.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="profile.h" />
     <ClInclude Include="tests.h" />
     <ClInclude Include="test_runner.h" />
   </ItemGroup>
